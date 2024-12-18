@@ -1,6 +1,7 @@
 # Water-shader2d
 ![Visual demo](water-shader2d.gif)
-2D water shader done following a YouTube video by PlayWithFurcifer.
+
+This 2D water shader was done following a YouTube video by PlayWithFurcifer.
 [YouTube video](https://www.youtube.com/watch?v=eU-F-xuEo7s)
 All credit goes to Fucifer: https://x.com/TweetFurcifer
 
